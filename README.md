@@ -1,5 +1,5 @@
 # Nodejs-Paypal-int
-Node.js PayPal REST SDK Sample
+Node.js PayPal REST App Sample
 
 Example showing how to use the PayPal REST SDK with Node.js to take a payment
 Version
